@@ -1,0 +1,17 @@
+{
+    "num": 90,
+    "port": 8080,
+    "database": {
+        "name": "app_db",
+        "user": "admin",
+        "password": 8080,
+        "test": {
+            "name": {
+                "bebra": 7.921568627450981
+            },
+            "user": "Maxim",
+            "password": "secret string"
+        },
+        "bebra": "aboba"
+    }
+}
